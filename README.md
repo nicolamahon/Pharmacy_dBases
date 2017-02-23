@@ -1,7 +1,7 @@
 # Pharmacy_dBases
 Database Model for Community Pharmacy
 
-This project was to design a computerised system to handle the stock of products for a community pharmacy. The schema for teh database was designed using Erwin Data Modeler and can be viewed in the attached .erwin file. The database was populated and queried using SQL. It was originally implmented using SQL Developer. 
+This project was to design a computerised system to handle the stock of products for a community pharmacy. The schema for this computerised database was designed using Erwin Data Modeler and can be viewed in the attached .erwin file. The database was populated and queried using SQL. It was originally implmented using SQL Developer. 
 
 The computerised system in this case study was required to maintain various details about staff, products, suppliers, customers, doctors and prescriptions. Some of the data fields are outlined below. 
 
@@ -33,7 +33,7 @@ Customer Details:
 - name
 - address
 - contact details
-- medical card number (if any) Each customer within the system has a unique ID.
+- medical card number
 
 Doctor Details: 
 - doctor ID
